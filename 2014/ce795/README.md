@@ -12,4 +12,4 @@ Slides:
   [here](./Waves.pdf?raw=true) as a single document.
 
 - [Second lecture (Numerical methods for wave propagation)](./CE597-numerical.pdf?raw=true).
-  There is an IPython Notebook for this lecture [here]()
+  There is an IPython Notebook for this lecture [here](https://nbviewer.jupyter.org/github/nicoguaro/talks/blob/master/2014/ce795/CFL_Nyquist_conditions.ipynb)
